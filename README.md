@@ -50,7 +50,8 @@ Repositori ini berisi proyek MLOps tingkat produksi untuk analisis sentimen real
 
 ## Architecture
 
-![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ElL5QF88zMm-Y__hKVEiRQ.png)
+![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DH5SfXFBXLN4aYEr4Ew-4Q.png)
+![](https://excalidraw.com/#json=yu8-Wxsfwg7YvqE3iM0P3,dLkBnkwtk4gXeR79fBgkCw)
 
 ## Feature
 
