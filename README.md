@@ -51,7 +51,7 @@ Repositori ini berisi proyek MLOps tingkat produksi untuk analisis sentimen real
 ## Architecture
 
 ![](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*DH5SfXFBXLN4aYEr4Ew-4Q.png)
-![](https://excalidraw.com/#json=yu8-Wxsfwg7YvqE3iM0P3,dLkBnkwtk4gXeR79fBgkCw)
+![Detail Architecture](https://excalidraw.com/#json=yu8-Wxsfwg7YvqE3iM0P3,dLkBnkwtk4gXeR79fBgkCw)
 
 ## Feature
 
@@ -81,6 +81,6 @@ docker-compose up --build
 
 3. Akses layanan:
 
-Dokumentasi API: `http://localhost:8000/docs`
+- Dokumentasi API: `http://localhost:8000/docs`
 
-Dashboard: `http://localhost:8501`
+- Dashboard: `http://localhost:8501`
